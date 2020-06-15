@@ -1,0 +1,40 @@
+_repo: The-Flame-Breathers_62321
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+creator:
+  author:
+    agent_name: Cummings, Ray
+    aliases:
+    - King, Ray
+    - Cummings, Raymond King
+    birthdate: 1887
+    deathdate: 1957
+    gutenberg_agent_id: '8443'
+    url: http://www.gutenberg.org/2009/agents/8443
+    wikipedia: https://en.wikipedia.org/wiki/Ray_Cummings
+description: ''
+gutenberg_issued: '2020-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62321'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- GITenberg
+title: The Flame Breathers
+url: http://www.gutenberg.org/ebooks/62321
